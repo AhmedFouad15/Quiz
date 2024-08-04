@@ -7,9 +7,9 @@
 
 ## Functions
 * **New Game** : start the new game and give you the question and take your answer then check the correct answer in the next function then after quiz finish it calls the next function.
-* **Check Answer** this only check the answer and return 1 if correct and 0 if wrong and then give it back to New Game.
-* **Display Score** it display your answers and the correct answers and tells you your percentage.
-* **Play Again** This ask the user if he wants to play again and if he says yes he will redo the quiz and then the program will stop.
+* **Check Answer** : this only check the answer and return 1 if correct and 0 if wrong and then give it back to New Game.
+* **Display Score** : it display your answers and the correct answers and tells you your percentage.
+* **Play Again** : This ask the user if he wants to play again and if he says yes he will redo the quiz and then the program will stop.
 
 ## Getting started
 
