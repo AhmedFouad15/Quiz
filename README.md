@@ -1,5 +1,5 @@
 # Quiz
-**This is a quiz which has 4 questions and when you answer , it will tell youu if you are correct or wrong and ask you the next quetion**
+**This is a quiz which has 4 questions and when you answer , it will tell you if you are correct or wrong and ask you the next quetion**
 
 ## Key Features
 + **You can use multiple choice like instead of saying C you can use c and visa verse , the same thing with all choice like yes and no you can use y or n**
